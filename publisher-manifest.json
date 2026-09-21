@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "de0810c8a10290624d53eeae",
+  "owner": "afhjsjkqr",
+  "repo": "page-14b11465e00e1dcc79be227c",
+  "title": "踏雾鹿(TapFog)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "14b11465e00e1dcc79be227c",
+      "a": "踏雾鹿(TapFog)",
+      "b": "机场官网线路发布页",
+      "entity": "踏雾鹿(TapFog)",
+      "brand": "踏雾鹿(TapFog)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1fd802f6fb81633c03047340aea722c3f6603072cbfd71a2b99bfd04fd42c204",
+      "content": {
+        "primary_entity": "踏雾鹿(TapFog)",
+        "keyword1": "踏雾鹿(TapFog)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "依设备平台选择对应客户端，按客户端文档导入订阅链接即可使用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更稳定",
+          "AI_DESCRIPTION": "，踏雾鹿(TapFog)提供基础版、旗舰版与团队版三档订阅，月付价格分别为¥15、¥35、¥85，按年付可享更优费率。每档套餐配置不同流量额度与在线设备数，旗舰版与团队版在节点池与专线优化上更丰富。选择时先确认常用设备数量与每月流量消耗，再依客户端文档配置订阅，即可在对应平台上使用。",
+          "AI_FAQ_ANSWER_1": "先看常用设备数量与每月流量消耗。基础版支持3台设备、每月100GB，适合轻度使用；旗舰版支持5台设备、每月300GB，含IPLC专线优化，适合游戏与流媒体；团队版支持20台设备、每月1000GB，适合多人协作。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。如果在多台手机、电脑与平板间切换，建议按实际常用设备数选择对应档位。",
+          "AI_FAQ_ANSWER_3": "月付与年付均可选。基础版月付¥15，按年付¥150/年；旗舰版月付¥35，按年付¥350/年；团队版月付¥85，按年付¥850/年。长期使用选择年付通常更划算。",
+          "AI_FAQ_ANSWER_4": "不同客户端导入订阅的方式略有差异。常规流程是获取订阅链接后，在客户端中找到订阅或配置导入入口，粘贴链接并更新节点，再选择线路连接。具体步骤可参照所用客户端的文档说明。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版提供全节点原生流媒体解锁，团队版配备VIP专属高带宽节点。如有大量高清流媒体需求，建议考虑旗舰版或团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "怎么判断自己适合哪档套餐？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁在不同套餐中有什么差异？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "基础版月付¥15含100GB流量并支持3台设备，旗舰版月付¥35含300GB并支持5台设备，团队版月付¥85含1000GB并支持20台设备，三档按年付价格更低。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURE_TEXT_1": "基础版月付¥15含100GB流量，旗舰版月付¥35含300GB，团队版月付¥85含1000GB，按年付价格更低。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线，按常用设备数量选择即可。",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与价格清晰",
+          "AI_FEATURE_TITLE_2": "设备数按需匹配",
+          "AI_FEATURE_TITLE_3": "专线优化可选",
+          "AI_GUIDE_INTRO": "先按设备数量与流量需求选定套餐，再核对套餐适配要求，最后在客户端中导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "踏雾鹿(TapFog)提供基础版、旗舰版与团队版三档订阅，覆盖不同设备数量与流量需求。选定套餐后，按对应客户端文档配置订阅链接，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "踏雾鹿订阅，按设备与流量选",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线优化",
+          "AI_HIGHLIGHT_3": "年付价格低于月付合计",
+          "AI_PLANS_INTRO": "基础版月付¥15含100GB、3台设备；旗舰版月付¥35含300GB、5台设备并带IPLC专线；团队版月付¥85含1000GB、20台设备。按年付分别¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量消耗，从基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与流量额度能否覆盖日常使用，并留意流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，在设备对应的客户端中按文档导入并更新节点，选择线路连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "踏雾鹿订阅选配"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jwsdx.cn",
+    "host": "jwsdx.cn"
+  },
+  "file_hashes": {
+    "index.html": "b43accc787bc7755443a8fa2cd14ed46345006b1516b6d98ccf938cc8f783346",
+    "sitemap.xml": "d4f12c7efdd1782a2288cf670073e2ed0e8816fe71edaa2fb64e4df8c8ad7e19",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6153e901a2c4655afa056e60b1ad2f01e354f21d62d9fb22e102394bb8fafc4d",
+    "robots.txt": "f017d7170cf9a0c776ce022da0538148c04f2b894b1b6025e19ea31754591235",
+    "2c7ed41d9f9ac4587c146558f0b5167b.txt": "88fda03c9b415d4dd2a3e3c0f2ae60c6139ae47896fb56593a42ce90e9bdd12f"
+  },
+  "revision": "336aa6b9c1f496f8e3114461b4818d76da41172c6b394854f23785e30a29691f"
+}
